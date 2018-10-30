@@ -7,5 +7,9 @@
 #endif //  REVERSE
 
 
+/** Function for string reverse.
+* @param str - string for input and output
+*/
+
 DLL_API void __stdcall reverse(char *str);
 
